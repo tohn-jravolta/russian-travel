@@ -1,0 +1,6 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    background-color: #2A2C2F;
+    align-content: center;
+}
