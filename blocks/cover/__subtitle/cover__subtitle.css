@@ -1,0 +1,6 @@
+.cover__subtitle {
+    display: flex;
+    color: white;
+    margin: 0;
+    z-index: 2;
+}

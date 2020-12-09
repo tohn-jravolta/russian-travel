@@ -4,6 +4,6 @@
     font-weight: 900;
     font-size: 96px;
     color: #ffffff;
-    width: 56.25%;
-    margin: 56px 132px 0 132px;
+    max-width: 720px;
+    margin: 0 0 32px 0;
 }

@@ -4,4 +4,9 @@
     font-family: 'Inter';
     font-weight: 400;
     font-size: 24px;
+    line-height: 26px;
+}
+.header__lang-link:first-of-type {
+    margin-right: 18px;
+    text-decoration-line: underline;
 }

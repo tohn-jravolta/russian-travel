@@ -1,0 +1,8 @@
+.cover {
+    width: 1184px;
+    height: 740px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../../images/transsib.png);
+}
+
