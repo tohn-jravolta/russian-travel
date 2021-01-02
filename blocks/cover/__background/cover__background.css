@@ -1,0 +1,13 @@
+.cover__background {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../../../images/transsib.png);
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: none;
+}

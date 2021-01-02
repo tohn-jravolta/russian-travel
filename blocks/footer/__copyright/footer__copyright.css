@@ -1,0 +1,10 @@
+.footer__copyright {
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    margin: 0;
+    position: absolute;
+    right: 0;
+}
